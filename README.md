@@ -1,6 +1,6 @@
 # Cloud Infrastructure Setup for a Small Business
 
-This project simulates a basic cloud infrastructure setup for a small business using the [AWS Free Tier]. It demonstrates how a simple cloud environment can be created to support common business needs like secure file storage, compute power, and system monitoring.
+This project simulates a basic cloud infrastructure setup for a small business using the AWS Free Tier. It demonstrates how a simple cloud environment can be created to support common business needs like secure file storage, compute power, and system monitoring.
 
 ---
 
